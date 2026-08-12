@@ -1,3 +1,6 @@
+
+
+
 Tendências Globais de Adoção de IA (2017–2025)
 Este repositório contém um dataset consolidado e padronizado com indicadores globais sobre o crescimento e a adoção da Inteligência Artificial entre 2017 e 2025, cobrindo desde o Machine Learning tradicional até o avanço da IA Generativa.
 
